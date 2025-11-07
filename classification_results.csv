@@ -1,0 +1,3 @@
+Model,Accuracy
+Random Forest Classifier,0.927785847686242
+XGBoost Classifier,0.9235318530815522
