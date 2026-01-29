@@ -1,23 +1,7 @@
 
-# Traffic Prediction Project
+# Traffic Prediction Using Hybrid Models Project
 
-A machine learning–based Python project to predict traffic conditions using historical data. This repository includes model training artifacts, source code, data files, and scripts to run predictions and analyze results.
-
-## 📌 Project Structure
-
-traffic_prediction_project
-├── app/                      # Application code (frontend / API)
-├── data/                     # Dataset files
-├── src/                      # Source scripts and utilities
-├── best_cls_model.pkl        # Trained classification model
-├── best_ml_model.pkl         # Trained regression model
-├── feature_columns.pkl       # Feature configuration
-├── label_encoder.pkl         # Encoded label mappings
-├── classification_results.csv# Classification predictions
-├── model_results.csv         # Regression or evaluation results
-├── main.py                  # Entry point for execution
-├── requirements.txt         # Python dependencies
-└── .env                     # Environment variables
+A hybrid model Python project to predict traffic conditions using historical data+real-time data. This repository includes model training artifacts, source code, data files, and scripts to run predictions and analyze results.
 
 ## 🧠 Project Overview
 
